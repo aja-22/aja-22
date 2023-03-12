@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Bienvenidos a mi repositorio</h1>text-aling: center;
+<h1>Bienvenidos a mi repositorio</h1>
 <h3>Proyectos</h3>
